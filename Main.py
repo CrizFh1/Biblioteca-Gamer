@@ -106,3 +106,4 @@ while True:
         break
 
     else:
+        print("\nOpción inválida. Intenta de nuevo.")   
